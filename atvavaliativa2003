@@ -1,0 +1,128 @@
+<html>
+    <head>
+        <title>lista de exercícios</title>
+    </head>
+    <body>
+        <h1>atividade 1</h1>
+        <br>
+        <fieldset>
+        <details>
+        <summary>h1 a h6</summary>
+        </details>
+        </fieldset>
+        <h1>h1</h1>
+        <br>
+        <h2>H2</h2>
+        <br>
+        <h3>h3</h3>
+        <br>
+        <h4>h4</h4>
+        <br>
+        <h5>h5</h5>
+        <br>
+        <h6>h6</h6>
+        <br><br>
+        <h1>atividade 2</h1>
+        <br>
+        <h2> cadastrar pessoas</h2>
+            <label>
+                nome: <input type="text">
+            </label>
+            <br><br>
+            <label>
+                data de nascimento <input type="date">
+            </label>
+            <br><br>
+            <label>
+                CPF <input type="text">
+            </label>
+            <br><br>
+            <label>
+                e-mail <input type="text">
+            </label>
+            <br><br>
+            <label>
+                cor favorita <input type="color">
+            </label>
+            <br><br>
+            <label>
+                foto <input type="file">
+            </label>
+            <br><br>
+            <input type="button" value="cadastrar">
+            <br><br>
+            <h1>atividade 3</h1>
+            <br>
+            <h2>caption de tela</h2>
+            <table border="1">
+                <tr>
+                    <td colspan="2"> <b>direcção</b></td>
+                </tr>
+           
+                <tr>
+                    <td><b></td>diretor</b></td>
+                    <td><b>diretor@utfpr.edu.br</b></td>
+                </tr>
+            
+                <tr>
+                    <td colspan="2"> <b>professores<b></td>
+                </tr>
+            
+                <tr>
+                    <td><b>professor 1</b></td>
+                    <td><b>professor@utfpr.edu.br</b></td>
+                </tr>
+            </table>
+            <br><br>
+            <h1>atividade 4</h1>
+            <br><br>
+            <div style="float: left;">
+            <img src="Shakespeare.jpg" width="200px" height="200px">
+            </div>
+            <div style="float: left">
+                <h1>soneto cv</h1>
+                <br><br>
+                <h2>william shakespeare</h2>
+            </div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <div style="float: left;">
+            <label>
+                <b>não chame meu amor de idolatria
+                <br>
+                   nem de idolo realce a quem eu amo,
+                <br>
+                   pois todo o meu cantar a um so se aliqua
+                <br>
+                   e de uma so maneira eu o proclamo
+                <br>
+                   ...  
+                </b>
+            </label>
+                <br><br><br>
+                <h1>atividade 5 </h1>
+    <br>
+     <div style="background-color: rgb(170, 34, 125); width: 15%; float: left;">
+            <p> Topo left </p>
+        </div>
+
+        <div style="background-color: rgb(34, 170, 147); width: 15%; float: right;">
+            <p> Topo right </p>
+        </div>
+<br><br>
+        <div style="background-color: rgb(245, 241, 8); width: 100%; height: 50px;">
+            <center><p> Centro </p></center>
+        </div>
+
+    <div style="background-color: rgb(33, 69, 146); width: 15%; float: right;">
+        <p> Base left </p>
+    </div>
+
+    <div style="background-color: rgb(34, 170, 57); width: 15%; float: left;">
+            <p> Base right </p>
+        </div>
+        <br><br><br><br><br><br>
+        <h1>atividade 6</h1>
+        <br>
+        
+    </body>
+</html>
